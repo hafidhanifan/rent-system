@@ -4,10 +4,10 @@ export default function Hero() {
   return (
     <section>
       <Image
-        src="/hero-image.jpg"
+        src="/images/hero-image.png"
         alt="Hero section image"
-        width={800}
-        height={400}
+        width={1400}
+        height={648}
         priority
       />
     </section>
